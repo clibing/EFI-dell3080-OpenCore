@@ -25,3 +25,7 @@ memory: 16G
 ssd: nvme 512
 wifi: ax210
 ```
+
+## bios
+
+[optiplex-7080mff](https://github.com/jerryhan77/dell-optiplex-7080mff-opencore)
